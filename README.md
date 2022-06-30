@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tsepa Mathuthu
 - 👀 I’m interested in learning everything I can about coding.
-- 🌱 I’m currently learning flutter with dart, html & css.
+- 🌱 I’m currently learning flutter with dart, html & css, Java, Python, JavaScript, etc.
 - 💞️ I’m looking to collaborate on projects that will allow me to learn and earn.
 - 📫 How to reach me tsepa91@icloud.com
 
